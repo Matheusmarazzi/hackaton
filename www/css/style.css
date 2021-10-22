@@ -1,0 +1,83 @@
+body{
+  background-color: lightcyan;
+}
+
+label{
+  font: Anton;
+  font-size: 3.5vh;
+}
+
+a{
+  font: Anton;
+  font-size: 3.5vh;
+}
+
+.categoria{
+  width: 10vw;
+  height: 10vh;
+  float: left;
+  margin-left: 5vw;
+  margin-right: 5vw;
+}
+
+.icone{
+  width: 50vw;
+  height: 10vh;
+  display: inline-flex;
+}
+
+.texto{
+  width: 80vw;
+  height: 5.5vh;
+  color: white;
+  background-color: darkblue;
+  border-radius: 10px;
+  margin-bottom: 2vh;
+}
+
+#conteudo{
+  height: 50vh;
+  width: 40vw;
+  float: left;
+  background: lightgray;
+  border-radius: 5px;
+  margin-right: 5px;
+  margin-left: 5vw;
+}
+
+
+#intro{
+  font: Anton;
+  margin-left: 5vw;
+  color: darkblue;
+}
+
+#passeio{
+  margin-left: 5vw;
+  margin-bottom: 5vh;
+}
+
+#map{
+  background-color: OldLace;
+  border:solid;
+  width: 80vw;
+  height: 50vh;
+  margin-bottom: 5vh;
+}
+
+.button{
+  width: 80vw;
+  height: 5.5vh;
+  color: white;
+  background-color: blue;
+  border-radius: 10px;
+  margin-bottom: 2vh;
+}
+#praia{
+  height: 40%;
+  width: 40%;
+}
+
+.teste{
+  
+}
